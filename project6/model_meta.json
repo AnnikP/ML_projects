@@ -1,0 +1,1 @@
+{"feature_cols": ["grid_position", "rolling_finish", "rolling_podiums", "team_name", "country_code", "circuit_key", "num_stints", "compounds_used", "mean_lap", "std_lap", "lap_count", "air_temperature", "track_temperature", "humidity", "wind_speed", "rainfall"]}
